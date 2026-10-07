@@ -50,8 +50,26 @@ I'm a student at the Institute of Space Technology, passionate about technology.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khansa56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansa56&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+## 🚀 Projects (C++)
+
+<div align="center">
+
+<a href="https://github.com/khansa56/CodeAlpha_CGPA_Calculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khansa56&repo=CodeAlpha_CGPA_Calculator&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/khansa56/CodeAlpha_Login-and-Registration-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khansa56&repo=CodeAlpha_Login-and-Registration-System&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+</div>
+
+| Project | Description | Tech |
+|---|---|---|
+| [CGPA Calculator](https://github.com/khansa56/CodeAlpha_CGPA_Calculator) | My first task for the CodeAlpha Internship: a simple CGPA calculator built with C++. | C++ |
+| [Login & Registration System](https://github.com/khansa56/CodeAlpha_Login-and-Registration-System) | CodeAlpha Internship Task 2: user registration, duplicate username validation, file-based credential storage, and login authentication. | C++ |
+
+---
+
 
 <br/>
 
