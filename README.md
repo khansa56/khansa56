@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=khansa-javeed&label=Profile%20Views&color=2dc7b4&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=khansa56&label=Profile%20Views&color=2dc7b4&style=for-the-badge" />
 
 </div>
 
@@ -50,12 +50,12 @@ I'm a student at the Institute of Space Technology, passionate about technology.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khansa-javeed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansa-javeed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khansa56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansa56&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khansa-javeed&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khansa56&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
