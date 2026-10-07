@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/khansa-javeed-51399036"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/khansa-javeed-513990361/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:khansa.javeed00@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
